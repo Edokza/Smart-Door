@@ -1,0 +1,27 @@
+MFRC522	Arduino
+
+3.3V	3.3V
+RES	D9
+GND	GND
+MISO	D12
+MOSI	D11
+SCK	D13
+SDA (SS)D10
+
+----------------
+1602 lcd + 12c
+
+Vcc -> 5V
+Gnd -> Gnd
+SDA -> D14
+SCL -> D15
+
+---------------
+motor survo
+
+Orange  -> D8
+Red- >5V
+Purple-> GND
+
+******
+Preferences -> http://arduino.esp8266.com/stable/package_esp8266com_index.json
